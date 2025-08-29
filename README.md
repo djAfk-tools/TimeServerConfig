@@ -6,7 +6,9 @@ This project is licensed under the MIT License with a No-Sale Restriction. You c
 Copyright (c) 2025 djAfk
 
 # Download Binary/EXE:
+[TimeServerConfig.exe](TimeServerConfig.exe)
 
+![TimeServerConfig UI](TimeServerConfig.PNG)
 
 # Features:
 Reads current registry settings to populate window.
