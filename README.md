@@ -2,7 +2,7 @@
 A C++ MFC application for configuring and managing NTP (Network Time Protocol) server settings designed for Windows Server 2016–2022. This tool provides a user-friendly interface to modify time synchronization settings, test NTP servers, and manage registry backups, requires administrative privileges due to modifying HKLM registry.
 
 # License:
-This project is licensed under the MIT License with a No-Sale Restriction. You can use, modify, and include it in other works (even commercial ones), but you may not sell or distribute TimeServerConfig as a standalone commercial product. See the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License with a No-Sale Restriction. You can use, modify, and include it in other works (even commercial ones), but you may not sell or distribute TimeServerConfig as a standalone commercial product. See the [LICENSE](LICENSE) file for details.
 Copyright (c) 2025 djAfk
 
 # Download Binary/EXE:
